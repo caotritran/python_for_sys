@@ -20,7 +20,7 @@ print "backup database..."
 ### Backup Database ###
 database_name = "admin_cocdata"
 user_name = "root"
-pass_user = "xtehMuVpX349"
+pass_user = "matkhaucuatoi"
 
 backup_db_dir = "/root/backup_db"
 
