@@ -1,3 +1,8 @@
+'''
+author: Tri Tran
+Edit: 25/10/2017
+Usage: python3 random_password.py
+'''
 import random
 
 
