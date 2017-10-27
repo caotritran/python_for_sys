@@ -40,7 +40,7 @@ print "done"
 ### sendmail to gmail ###
 
 from_address = "tritran@azdigi.com"
-from_pass = "netadmin@@@"
+from_pass = "password_here"
 to_address = "caotritran.14@gmail.com"
 
 msg = MIMEMultipart()
