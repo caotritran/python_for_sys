@@ -1,3 +1,4 @@
+#Images created on each pods k8s
 from kubernetes import client, config
 
 config.load_kube_config(config_file="/Users/lap02803/Library/Application Support/Lens/kubeconfigs/6260f5ea-fb36-4a06-84a8-41c10eb733ad")
